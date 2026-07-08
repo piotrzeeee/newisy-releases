@@ -75,9 +75,14 @@ Newisy nie ma własnego backendu — używasz swojego dostawcy:
 
 Wszystko dzieje się na Twoim Macu. Klucze i hasła trzymane są w **Keychain** oraz lokalnym pliku z uprawnieniami tylko dla Ciebie (przeżywają aktualizacje). Newisy **nie zbiera telemetrii** i nie wysyła Twoich danych nigdzie poza zapytaniami do wybranego dostawcy AI. Poczta czytana jest przez IMAP z **hasłem aplikacji** — czytamy tylko nagłówki.
 
-## Baza notatek
+## Baza wiedzy (Obsidian + agenci AI)
 
-Digesty, research i porównania to zwykłe pliki Markdown w wybranym folderze. Otwórz go jako vault w **Obsidianie** i masz drugą, w pełni linkowaną bazę wiedzy — za darmo.
+Newisy zapisuje **wszystko jako zwykłe pliki Markdown** w wybranym folderze — digesty (`Dziennik/`), pogłębiony research (`Research/`), porównania i wyniki wyszukiwań — połączone wikilinkami `[[...]]` z centralnym `Home.md`.
+
+To daje Ci dwie rzeczy za darmo:
+
+- **Obsidian** — otwórz ten folder jako vault i masz w pełni linkowaną, przeszukiwalną bazę wiedzy o świecie AI, rosnącą każdego dnia.
+- **Dostęp dla agentów AI** — ponieważ to zwykły Markdown na dysku, każdy agent (Claude Code i inne) może **czytać, przeszukiwać i wykorzystywać** tę wiedzę w Twoich projektach. Newisy nie jest zamkniętą aplikacją — buduje Ci trwałą, otwartą bazę, z której korzystasz dalej.
 
 ## Instalacja
 
