@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.8.0.dmg",
-  "notes": "Newisy 1.8.0 — nowy Czat: Zwykły / Porównanie / Deep Research w jednej wątkowanej rozmowie, skrzynka na żądanie, budowanie bazy wiedzy."
+  "version": "1.8.1",
+  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.8.1.dmg",
+  "notes": "Newisy 1.8.1 — obszary z włącznikiem i interwałem (co N dni), Claude Code w Ustawieniach, fix zawijania w wątkach."
 }
