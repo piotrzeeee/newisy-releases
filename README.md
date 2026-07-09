@@ -43,6 +43,7 @@ Newisy każdego ranka przeszukuje internet i Twoją skrzynkę, buduje zwięzły,
 | 🔔 **Obserwowane repo** | Śledź repozytoria GitHub — powiadomienie systemowe przy każdej nowej wersji. |
 | 🕑 **Oś czasu** | Cała historia nowości z filtrem dat; zbadaj też okres sprzed instalacji. |
 | 🔐 **Własny dostawca AI** | Claude Code, Anthropic API albo OpenRouter — klucze lokalnie, zero vendor lock‑in. |
+| 🤖 **Zarządzanie z Claude Code** | Skonfiguruj i steruj Newisy przez rozmowę z agentem — skill + serwer MCP instalowane jednym kliknięciem. |
 
 ## Zrzuty ekranu
 
@@ -84,13 +85,24 @@ To daje Ci dwie rzeczy za darmo:
 - **Obsidian** — otwórz ten folder jako vault i masz w pełni linkowaną, przeszukiwalną bazę wiedzy o świecie AI, rosnącą każdego dnia.
 - **Dostęp dla agentów AI** — ponieważ to zwykły Markdown na dysku, każdy agent (Claude Code i inne) może **czytać, przeszukiwać i wykorzystywać** tę wiedzę w Twoich projektach. Newisy nie jest zamkniętą aplikacją — buduje Ci trwałą, otwartą bazę, z której korzystasz dalej.
 
+## Zarządzanie z Claude Code (MCP + skill)
+
+Newisy możesz **skonfigurować i obsługiwać przez rozmowę z Claude Code**. W aplikacji: **Konfiguracja → Claude Code → Zainstaluj skill + MCP** (jedno kliknięcie — Newisy zapisuje globalny skill `newisy` i rejestruje serwer MCP przez `claude mcp add`).
+
+Potem w Claude Code możesz np.:
+
+- „**skonfiguruj mi Newisy**" — agent przeprowadzi Cię przez setup: sam zaproponuje obszary zainteresowań, dopyta o priorytety, kadencję digestu, strefę i dostawcę AI, po czym zapisze idealną konfigurację.
+- „**dodaj obserwację repo anthropics/claude-code**", „**odpal dziś digest**", „**poszukaj: nowe modele NVIDIA**", „**co było w digestach w tym tygodniu?**" — agent steruje aplikacją narzędziami MCP.
+
+Serwer MCP to ten sam plik aplikacji uruchamiany w trybie `--mcp-serve` (stdio) — zero dodatkowych zależności. Klucze API i hasła **nie są** ustawiane przez agenta (zostają w Ustawieniach aplikacji).
+
 ## Instalacja
 
 1. Pobierz najnowszy `.dmg` z [Releases](https://github.com/piotrzeeee/newisy-releases).
 2. Otwórz i przeciągnij **Newisy** do Aplikacji.
 3. Uruchom — ikona radaru pojawi się w pasku menu.
 
-> Wymaga macOS 14+. Aplikacja jest podpisana Developer ID; po pierwszym uruchomieniu może być potrzebne prawym → Otwórz.
+> Wymaga macOS 14+. Aplikacja jest podpisana Developer ID i **notaryzowana przez Apple** — otwiera się normalnie, bez ostrzeżeń Gatekeepera.
 
 ## Auto‑aktualizacje
 
