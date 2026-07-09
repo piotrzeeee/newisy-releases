@@ -37,6 +37,7 @@ Newisy każdego ranka przeszukuje internet i Twoją skrzynkę, buduje zwięzły,
 | 📡 **Codzienny digest** | Automatyczny przegląd nowości w Twoich obszarach — TL;DR, sekcje tematyczne, każdy news z datą `[DD.MM]` i linkiem źródłowym. |
 | 🎯 **Twoje dziedziny** | Sam definiujesz obszary — dowolne tematy, nie tylko AI. Agent researchuje każdy z osobna. |
 | 🔎 **Pogłębiony research** | Jednym kliknięciem agent drąży temat głębiej i zapisuje notatkę. |
+| 💬 **Zapytaj (AI search)** | Konwersacyjna wyszukiwarka jak Perplexity — pyta, analizuje, porównuje i rekomenduje, z wątkami do powrotu i akcjami „Zainstaluj/Obserwuj" wprost z odpowiedzi. |
 | 🛍️ **Marketplace „Odkrywaj"** | Przeglądaj **254 pluginy** Claude Code po kategoriach i popularności, instaluj jednym klikiem. |
 | ✅ **Do przetestowania** | Checklist rzeczy wartych uwagi — auto‑odhaczana, gdy coś już zainstalujesz/zaktualizujesz. |
 | 📬 **Skrzynka Gmail** | Newisy wyłuskuje istotne maile (np. zmiany w usługach, których używasz) i odfiltrowuje reklamy. |
