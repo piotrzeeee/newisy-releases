@@ -1,5 +1,5 @@
 {
-  "version": "1.7.9",
-  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.7.9.dmg",
-  "notes": "Newisy 1.7.9 — „Zapytaj” jak czat: „‹ Wróć do wątków”, animacja szukania, ikonka wysyłania, lepsze zawijanie tekstu."
+  "version": "1.7.10",
+  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.7.10.dmg",
+  "notes": "Newisy 1.7.10 — śledzone strony w digeście: wpisz URL (np. anthropic.com/news) w obszar, a digest pobierze ją bezpośrednio."
 }
