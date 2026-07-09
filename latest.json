@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.8.1.dmg",
-  "notes": "Newisy 1.8.1 — obszary z włącznikiem i interwałem (co N dni), Claude Code w Ustawieniach, fix zawijania w wątkach."
+  "version": "1.8.2",
+  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.8.2.dmg",
+  "notes": "Newisy 1.8.2 — przycisk „Stop” w czacie: przerwij generowanie w miejscu, natychmiastowe „Anulowano”."
 }
