@@ -1,5 +1,5 @@
 {
-  "version": "1.7.10",
-  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.7.10.dmg",
-  "notes": "Newisy 1.7.10 — śledzone strony w digeście: wpisz URL (np. anthropic.com/news) w obszar, a digest pobierze ją bezpośrednio."
+  "version": "1.8.0",
+  "url": "https://github.com/piotrzeeee/newisy-releases/raw/main/Newisy-1.8.0.dmg",
+  "notes": "Newisy 1.8.0 — nowy Czat: Zwykły / Porównanie / Deep Research w jednej wątkowanej rozmowie, skrzynka na żądanie, budowanie bazy wiedzy."
 }
